@@ -1,3 +1,1 @@
-##dahsdhdkd
-ggno
-gnirgjringkirn
+## Nauka Git
